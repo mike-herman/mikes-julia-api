@@ -1,5 +1,4 @@
 using FredData
-using Dates
 using JSONTables
 
 FRED_API_KEY = "22f72fa5d2cc78e3da04b46d10f7dd78"

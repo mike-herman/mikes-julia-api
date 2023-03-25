@@ -1,7 +1,7 @@
 # mikes-julia-api
 A basic API backend in Julia.
 
-This is basically a wrap-around the existing API package `FredData`. (https://juliahub.com/ui/Packages/FredData/SEoaS/0.6.0)
+This is basically a wrap-around the existing API package `FredData`. (https://juliahub.com/ui/Packages/FredData/SEoaS/0.6.0). This requires a FRED API key to be added as a system environment variable. See package details.
 
 The endpoint for this API is called `cpi` and it takes two parameters, `start_date` and `end_date`. It will return the U.S. CPI between the dates specified.
 

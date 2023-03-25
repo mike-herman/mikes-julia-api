@@ -1,2 +1,4 @@
 [deps]
+FredData = "6e85b7ee-7d24-5488-b1b7-e4f4198c51ac"
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+JSONTables = "b9914132-a727-11e9-1322-f18e41205b0b"
